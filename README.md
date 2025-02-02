@@ -6,7 +6,7 @@ This project demonstrates a simple calculation test suite using Vitest.
 
 ### 1.Clone the repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/DenisHerzhyk/vitest_sum_divide_tests.git
 cd vitest_sum_divide_project
 ```
 
